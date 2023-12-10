@@ -4,4 +4,4 @@
 
 ![image-2](https://github.com/Randhiranju/QuickShell-Assignment/assets/94231655/428b48e4-180b-4799-8020-b3504e5791c4)
 
-Deployment Link: https://quickshell-assignment-randhir.netlify.app/
+Deployment Link: https://pankajesc.github.io/QuickShell/
